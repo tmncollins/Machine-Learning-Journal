@@ -26,14 +26,18 @@ Predicting house prices from a large number of features using Linear Regression 
 
 ### 5 - Wine Price Prediction
 
-Predicting wine prices from a homemade dataset
+Classifying hand-drawn digits using SVM and expanding the dataset using Data Augmentation.
 
-### 6 - Multi-Layer Perceptron Classifier
+**Models:** SVM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dataset:** SKLearn Digits
 
-Constructing a multi-layer perceptron classifier from scratch and testing its performance.
+### 6 - Multi-Layer Perceptron
+
+Constructing a multi-layer perceptron from scratch and testing its performance.
 
 **Models:** Multi-Layer Perceptron &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dataset:** Fish Market
 
 ### 7 - Boiling Point Prediction
 
 Prediction the boiling points of organic molecules based on descriptors and fingerprints extracted from their structure.
+
+**Models:** Multi-Layer Perceptron &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dataset:** Boiling Points
