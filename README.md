@@ -22,9 +22,9 @@ Constructing multi-dimensional linear and logistic regressors from scratch and t
 
 Predicting house prices from a large number of features using Linear Regression and Random Forest Regression.
 
-**Models:** Linear Regressor, Ridge, Random Forest Regressor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dataset:** Kaggle House Prices (Iowa)
+**Models:** Linear Regressor, XGBoost, Random Forest Regressor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dataset:** Kaggle House Prices (Iowa)
 
-### 5 - Hand-Drawn Digits Classifier
+### 5 - Hand-Drawn Digits Classification
 
 Classifying hand-drawn digits using SVM and expanding the dataset using Data Augmentation.
 
@@ -40,4 +40,10 @@ Constructing a multi-layer perceptron from scratch and testing its performance.
 
 Prediction the boiling points of organic molecules based on descriptors and fingerprints extracted from their structure.
 
-**Models:** Multi-Layer Perceptron &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dataset:** Boiling Points
+**Models:** XGBoost, Random Forest Regressor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dataset:** Boiling Points
+
+### 8 - Playing Card Image Classification
+
+Classifying a large image dataset of playing cards using a Convolutional Neural Network.
+
+**Models:** Convolutional Neural Network &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dataset:** Kaggle Playing Card Images
