@@ -42,7 +42,13 @@ Prediction the boiling points of organic molecules based on descriptors and fing
 
 **Models:** XGBoost, Random Forest Regressor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dataset:** Boiling Points
 
-### 8 - Playing Card Image Classification
+### 8 - Bayesian Optimisation
+
+Optimising experimental conditions with multiple objectives and constraints using bayesian optimisation.
+
+**Models:** Bayesian Optimisation
+
+### 9 - Playing Card Image Classification
 
 Classifying a large image dataset of playing cards using a Convolutional Neural Network.
 
